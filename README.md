@@ -36,7 +36,9 @@
 ## How to Use It ? (Usage)
 #### ❗️ It is recommended to run this script on [Google Cloud Shell Editor](https://ssh.cloud.google.com/cloudshell/editor "Open Google Cloud Shell Editor") or else you may end up facing some unknown error.
 
-### Follow the steps given below to use it: 
+### Follow the steps given below to use it:
+
+> Side Note: You can even checkout the [video tutorial](https://youtu.be/1Gu21GNwDV4 "How to Use GoMozChecker for Bulk Checking DA, PA & Spam Score - Video Tutorial") which covers it's usage process.
 
 1. Visit [Google Cloud Shell Editor](https://ssh.cloud.google.com/cloudshell/editor "Open Google Cloud Shell Editor") and then paste the given command in terminal.
 
@@ -59,7 +61,7 @@ python3 api.py
 ```
 5. Now the last thing to do before running the script is to add the Domain name in "urls.txt", so just paste the list of domain names in urls.txt.
 
-> Sidenote ⚠️ : Do not insert more than 1000 URLs for checking at once or else you may encounter some errors on the way.
+> Side Note ⚠️ : Do not insert more than 1000 URLs for checking at once or else you may encounter some errors on the way.
 6. Finally we are ready to run the script, now the only thing you need to do is to run the following command:
 ```bash
 python3 main.py
