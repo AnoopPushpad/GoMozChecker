@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![HitCount](http://hits.dwyl.com/anuppushpad/GoMozChecker.svg)](http://hits.dwyl.com/anuppushpad/GoMozChecker)
+[![VisitorsCount](https://visitor-badge.laobi.icu/badge?page_id=anupgomozchecker)](https://github.com/anuppushpad/GoMozChecker
 
 </div>
 
