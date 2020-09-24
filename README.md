@@ -33,7 +33,7 @@
 - Requests
 - Config
 
-## How to Use It ? (Installation)
+## How to Use It ? (Usage)
 #### ❗️ It is recommended to run this script on [Google Cloud Shell Editor](https://ssh.cloud.google.com/cloudshell/editor "Open Google Cloud Shell Editor") or else you may end up facing some unknown error.
 
 ### Follow the steps given below to use it: 
