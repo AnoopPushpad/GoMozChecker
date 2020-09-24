@@ -75,7 +75,7 @@ I hope this will help. 😊
 ## Pull requests welcome!
 
 Spotted an error? Something doesn't make sense? Send me a [pull
-request](http://github.com/anuppushpad/GoMozChecker)! Please avoid making
+request](https://github.com/anuppushpad/GoMozChecker)! Please avoid making
 stylistic changes though -- they are unlikely to be accepted. Thanks!
 
 <hr>
