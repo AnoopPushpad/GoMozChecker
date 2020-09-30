@@ -1,7 +1,7 @@
 <!-- # GoMozChecker - Bulk DA, PA & Spam Score Checker -->
 
 <h1 align="center">GoMozChecker</h1>
-<h3 align="center">Bulk DA, PA & Spam Score Checker</h3>
+<h3 align="center">The Best Bulk DA, PA & Spam Score Checker</h3>
 
 <div align="center">
 
