@@ -55,13 +55,17 @@ cd GoMozChecker
 ```bash
 pip3 install -r requirements.txt
 ```
-4. Next, you need to Add your "Moz API" keys in the "config.json" file for that run the following command, and paste your "Access ID" & "Secret Key" credentials when asked.
+4. Next, you need to Add your "Moz API keys" in the "config.json" file for that run the following command, and paste your "Access ID" & "Secret Key" credentials when asked.
+
+> ℹ️ Side Note: If you **don't have "Moz API keys"** then you need to sign up for a free Mozscape account at [Mozscape API Pricing](https://moz.com/products/api/pricing) and after that you will get your "Moz API Credentails"....
+
 ```bash
 python3 api.py
 ```
 5. Now the last thing to do before running the script is to add the Domain name in "urls.txt", so just paste the list of domain names in urls.txt.
 
-> Side Note ⚠️ : Do not insert more than 1000 URLs for checking at once or else you may encounter some errors on the way.
+> ⚠️ Side Note  : Do not insert more than 1000 URLs for checking at once or else you may encounter some errors on the way.
+
 6. Finally we are ready to run the script, now the only thing you need to do is to run the following command:
 ```bash
 python3 main.py
