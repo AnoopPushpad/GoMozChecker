@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![VisitorsCount](https://visitor-badge.laobi.icu/badge?page_id=anupgomozchecker)](https://github.com/anuppushpad/GoMozChecker)
+[![VisitorsCount](https://visitor-badge.laobi.icu/badge?page_id=anoopgomozchecker)](https://github.com/anooppushpad/GoMozChecker)
 
 </div>
 
@@ -13,7 +13,7 @@
 **GoMozChecker** is a simple program that grabs **Domain Authority a.k.a DA, Page Authority a.k.a PA & Spam Score** data from the Mozscape API.
 
 <p align="center">
-    <a href="http://github.com/anuppushpad/GoMozChecker" alt="Made with Python">
+    <a href="http://github.com/anooppushpad/GoMozChecker" alt="Made with Python">
         <img src="https://forthebadge.com/images/badges/made-with-python.svg" /></a>
 </p>
 
@@ -43,7 +43,7 @@
 1. Visit [Google Cloud Shell Editor](https://ssh.cloud.google.com/cloudshell/editor "Open Google Cloud Shell Editor") and then paste the given command in terminal.
 
 ```bash
-git clone http://github.com/anuppushpad/GoMozChecker
+git clone http://github.com/anooppushpad/GoMozChecker
 ```
 
 2. Now we will open the "GoMozChecker" folder which got created "after clonning" it in the previous step.. 
@@ -81,7 +81,7 @@ I hope this will help. 😊
 ## Pull requests welcome!
 
 Spotted an error? Something doesn't make sense? Send me a [pull
-request](https://github.com/anuppushpad/GoMozChecker)! Thanks!
+request](https://github.com/anooppushpad/GoMozChecker)! Thanks!
 
 <hr>
 
@@ -93,4 +93,4 @@ Feel free to raise any bugs/issues under Github issues. Pull requests are also m
 
 ## License
 
-MIT  © [Anup Pushpad](https://github.com/anuppushpad)
+MIT  © [Anoop Pushpad](https://github.com/anooppushpad)
