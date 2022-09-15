@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![VisitorsCount](https://visitor-badge.laobi.icu/badge?page_id=anoopgomozchecker)](https://github.com/anooppushpad/GoMozChecker)
+[![VisitorsCount](https://visitor-badge.laobi.icu/badge?page_id=anupgomozchecker)](https://github.com/anooppushpad/GoMozChecker)
 
 </div>
 
